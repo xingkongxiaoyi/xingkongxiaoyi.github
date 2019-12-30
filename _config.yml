@@ -7,20 +7,20 @@
 
 # Site settings
 title: 小易的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: 悠悠千载
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://643435675.github.io" # the base hostname & protocol for your site
+url: "https://xingkognxiaoyi.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
+twitter_username: #
+facebook_username: #
 github_username:  xingkongxiaoyi
 email: xingkognxiaoyi@QQ.com
-weibo_username: 3115521wh
-zhihu_username: hll643435675
-linkedIn_username: gaohaoyang
+weibo_username: 
+zhihu_username: 
+linkedIn_username: 
 dribbble_username:
 
 description_footer: 小易的个人专栏！
@@ -28,8 +28,8 @@ description_footer: 小易的个人专栏！
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: #gaohaoyang
+duoshuo_shortname: #
+disqus_shortname: #
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
